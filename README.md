@@ -1,1 +1,1 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+YOUR_NAME;Full+Stack+Developer;Open+Source+Enthusiast;Welcome+to+my+GitHub!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Zaid+Bin+Riaz;Full+Stack+Developer;Open+Source+Enthusiast;Welcome+to+my+GitHub!)
